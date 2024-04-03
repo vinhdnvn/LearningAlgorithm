@@ -1,3 +1,6 @@
+# import List
+from typing import List
+
 class Solution:
     def closestCost(self, baseCosts: List[int], toppingCosts: List[int], target: int) -> int:
         
